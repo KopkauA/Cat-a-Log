@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979483497394",
+    "project_id": "cat-a-log-tracker",
+    "storage_bucket": "cat-a-log-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979483497394:android:474640d425337eaea28aab",
+        "android_client_info": {
+          "package_name": "com.example.cat_a_log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgYzQCzgTSgDNpDMU3Qqhilnwmnk424Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
